@@ -1,0 +1,16 @@
+{
+  "10050": {
+    "LGA_CODE": "10050",
+    "LGA_NAME": "Example LGA A",
+    "vacancy_rate": 0.8,
+    "owner_occupier_ratio": 0.62,
+    "population": 180000
+  },
+  "10180": {
+    "LGA_CODE": "10180",
+    "LGA_NAME": "Example LGA B",
+    "vacancy_rate": 1.6,
+    "owner_occupier_ratio": 0.48,
+    "population": 92000
+  }
+}
