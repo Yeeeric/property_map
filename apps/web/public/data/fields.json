@@ -1,0 +1,9 @@
+{
+    "joinKey": "LGA_CODE",
+    "displayName": "LGA_NAME",
+    "filters": [
+      { "field": "vacancy_rate", "label": "Vacancy rate", "type": "number", "unit": "%", "mode": "range", "min": 0, "max": 5, "step": 0.05 },
+      { "field": "owner_occupier_ratio", "label": "Owner-occupier ratio", "type": "number", "mode": "range", "min": 0, "max": 1, "step": 0.01 },
+      { "field": "population", "label": "Population", "type": "number", "mode": "range", "min": 0, "max": 500000, "step": 1000 }
+    ]
+  }
